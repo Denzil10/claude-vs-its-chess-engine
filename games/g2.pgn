@@ -1,0 +1,9 @@
+[Event "Raw Claude vs its engine (board)"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Claude Opus (no tools)"]
+[Black "Claude's engine (1 s/move)"]
+[Result "0-1"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d4 d5 6. Bd3 Bd6 7. O-O O-O 8. c4 Be6 9. cxd5 Bxd5 10. Nc3 Nxc3 11. bxc3 Nd7 12. c4 Bxf3 13. Qxf3 Qh4 14. g3 Qxd4 15. Be3 Qxd3 16. Rfd1 Qxc4 17. Qxb7 Ne5 18. Rac1 Qxa2 19. Qe4 Qe2 20. Rd2 Nf3+ 21. Kg2 Nxd2 22. Qd5 Bb4 23. Qd4 c5 24. Qd5 Rad8 25. Qe5 Rfe8 26. Qf4 a5 27. Qf3 Qxf3+ 28. Kg1 c4 29. Bxd2 Rxd2 30. Rf1 Bc5 31. h4 Bxf2+ 32. Kh2 Bxg3+ 33. Kh3 Rh2# 0-1
