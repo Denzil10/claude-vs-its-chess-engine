@@ -7,3 +7,5 @@ Claude Opus 5.5 with no tools (`claude -p --tools ""`) plays White against [the 
 - `games/`: PGN and the full prompt/reply log of each game
 
 Results (2026-11-10): blind, checkmated on move 53 with 5 illegal tries; with the board, checkmated on move 33 with 1 illegal try. One game each.
+
+Video: https://youtu.be/9tj0ONSNWME
